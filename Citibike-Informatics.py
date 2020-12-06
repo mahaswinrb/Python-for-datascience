@@ -1,7 +1,5 @@
 '''
-Author: ---
-Date: ---
-Solution to EX03
+Mahaswin
 
 '''
 
