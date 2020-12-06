@@ -1,6 +1,3 @@
-# Author: ---
-# Date: ---
-# EM624 Ex5
 
 # This code will read the data file, count the number of boys, girls, women, and men
 # and then create a bar chart. 
