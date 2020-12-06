@@ -1,8 +1,5 @@
 '''
- Author:  ---
 
- Exercise 00.5
- Sample progam
 
  This program takes a set of potential passwords from the user and print
      only those that are acceptable To qualify they need to have
