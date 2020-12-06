@@ -1,5 +1,4 @@
-# author: xxxx
-# seaborn example 
+
 
 # import libraries
 import pandas as pd
