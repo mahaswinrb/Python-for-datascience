@@ -1,8 +1,5 @@
 '''
- Author:  ---
-
- Exercise 00.5
- Sample progam
+ Author:Mahaswin
 
  This program read a file with US baby names and
 
