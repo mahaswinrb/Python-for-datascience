@@ -1,8 +1,5 @@
 '''
-Author:  ---
 
-Exercise 00.4
-Sample progam
 
 This program takes 3 numbers from the user and print
     - the factorial for the first one,
